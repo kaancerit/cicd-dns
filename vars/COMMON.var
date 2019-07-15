@@ -1,0 +1,6 @@
+---
+APPENV: 
+  DEV:
+    VARSERVER: '10.10.0.235' #Windows Dynamic DNS Server
+    DUSERNAME: 'dnsuser@DOMAIN.COM' #CAP IS IMPORTANT
+    DPASSWORD: 'XXXXXXXX' #Domain password for dnsuser
